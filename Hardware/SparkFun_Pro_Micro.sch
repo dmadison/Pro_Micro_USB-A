@@ -17222,7 +17222,6 @@ For boards designed to be plugged directly into a USB slot. If possible, ensure 
 <part name="GND7" library="SparkFun" deviceset="GND" device=""/>
 <part name="R6" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="330"/>
 <part name="D3" library="SparkFun" deviceset="LED" device="0603" value="Green"/>
-<part name="U$11" library="SparkFun" deviceset="LOGO-SFE" device="NEW"/>
 <part name="U2" library="SparkFun" deviceset="V_REG_LDO" device="SMD" value="MIC5219"/>
 <part name="C19" library="SparkFun" deviceset="CAP_POL" device="1206" value="10uF"/>
 <part name="GND30" library="SparkFun" deviceset="GND" device=""/>
@@ -17318,7 +17317,6 @@ For boards designed to be plugged directly into a USB slot. If possible, ensure 
 <attribute name="NAME" x="206.502" y="66.294" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="196.977" y="68.326" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="U$11" gate="G$1" x="241.3" y="17.78"/>
 <instance part="U2" gate="G$1" x="63.5" y="154.94"/>
 <instance part="C19" gate="G$1" x="40.64" y="154.94"/>
 <instance part="GND30" gate="1" x="48.26" y="144.78"/>
