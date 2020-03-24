@@ -120,10 +120,10 @@
 </layers>
 <board>
 <plain>
-<wire x1="0" y1="37.338" x2="0" y2="0" width="0.2032" layer="20"/>
+<wire x1="0" y1="36.99" x2="0" y2="0" width="0.2032" layer="20"/>
 <wire x1="0" y1="0" x2="17.78" y2="0" width="0.2032" layer="20"/>
-<wire x1="17.78" y1="0" x2="17.78" y2="37.338" width="0.2032" layer="20"/>
-<wire x1="17.78" y1="37.338" x2="0" y2="37.338" width="0.2032" layer="20"/>
+<wire x1="17.78" y1="0" x2="17.78" y2="36.99" width="0.2032" layer="20"/>
+<wire x1="17.78" y1="36.99" x2="0" y2="36.99" width="0.2032" layer="20"/>
 <wire x1="15.494" y1="0.508" x2="15.494" y2="29.21" width="0.0762" layer="51"/>
 <wire x1="3.556" y1="0.508" x2="3.556" y2="28.956" width="0.0762" layer="51"/>
 <circle x="1.27" y="8.89" radius="1.016" width="0.254" layer="21"/>
@@ -3324,14 +3324,14 @@ design rules under a new name.</description>
 <via x="8.582659375" y="25.702259375" extent="1-16" drill="0.254"/>
 <via x="12.186921875" y="6.456678125" extent="1-16" drill="0.254"/>
 <polygon width="0.254" layer="1" isolate="0.2032">
-<vertex x="0" y="37.338"/>
-<vertex x="17.78" y="37.338"/>
+<vertex x="0" y="36.99"/>
+<vertex x="17.78" y="36.99"/>
 <vertex x="17.78" y="0"/>
 <vertex x="0" y="0"/>
 </polygon>
 <polygon width="0.254" layer="16" isolate="0.2032">
-<vertex x="0" y="37.338"/>
-<vertex x="17.78" y="37.338"/>
+<vertex x="0" y="36.99"/>
+<vertex x="17.78" y="36.99"/>
 <vertex x="17.78" y="0"/>
 <vertex x="0" y="0"/>
 </polygon>
