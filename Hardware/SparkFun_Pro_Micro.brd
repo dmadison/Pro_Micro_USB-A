@@ -181,8 +181,8 @@
 <vertex x="5.450840625" y="13.685521875"/>
 </polygon>
 <text x="5.39" y="30.734" size="0.8128" layer="21" ratio="15" rot="R90" align="center-right">V</text>
-<text x="7.763" y="30.734" size="0.8128" layer="21" ratio="15" rot="R90" align="center-right">-</text>
-<text x="10.017" y="30.734" size="0.8128" layer="21" ratio="15" rot="R90" align="center-right">+</text>
+<text x="7.763" y="30.734" size="0.8128" layer="21" ratio="15" rot="R90" align="center-right">D-</text>
+<text x="10.017" y="30.734" size="0.8128" layer="21" ratio="15" rot="R90" align="center-right">D+</text>
 <text x="12.39" y="30.734" size="0.8128" layer="21" ratio="15" rot="R90" align="center-right">G</text>
 </plain>
 <libraries>
