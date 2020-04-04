@@ -131,7 +131,7 @@
 <circle x="1.27" y="16.51" radius="1.016" width="0.254" layer="21"/>
 <circle x="1.27" y="1.27" radius="1.016" width="0.254" layer="21"/>
 <circle x="16.51" y="1.27" radius="1.016" width="0.254" layer="21"/>
-<text x="12.065" y="1.397" size="1.016" layer="16" ratio="25" rot="MR0">USBA v1</text>
+<text x="12.065" y="1.397" size="1.016" layer="16" ratio="25" rot="MR0">USBA v1.1</text>
 <text x="3.556" y="0.889" size="1.016" layer="21" ratio="15" rot="R90">9</text>
 <text x="3.556" y="3.429" size="1.016" layer="21" ratio="15" rot="R90">8</text>
 <text x="3.556" y="5.969" size="1.016" layer="21" ratio="15" rot="R90">7</text>
