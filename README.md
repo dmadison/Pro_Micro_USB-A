@@ -7,6 +7,8 @@ The Pro Micro is a micro controller with an ATMega32U4 IC on board.
 The USB transceiver is inside the 32U4, adding USB connectivity on-board without external USB interfaces. 
 This comes in both a 3.3V and 5V version. 
 
+This repository was forked from [the original SparkFun Pro Micro repository](https://github.com/sparkfun/Pro_Micro). The board has been modified to use [a USB-A](https://en.wikipedia.org/wiki/USB_hardware#Connectors) connector.
+
 
 Repository Contents
 -------------------
