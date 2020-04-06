@@ -9,6 +9,7 @@ This comes in both a 3.3V and 5V version.
 
 This repository was forked from [the original SparkFun Pro Micro repository](https://github.com/sparkfun/Pro_Micro). The board has been modified to use [a USB-A](https://en.wikipedia.org/wiki/USB_hardware#Connectors) connector.
 
+For more information, see [the blog post on PartsNotIncluded.com](https://www.partsnotincluded.com/sparkfun-pro-micro-with-usb-a/).
 
 Repository Contents
 -------------------
@@ -22,6 +23,7 @@ Documentation
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide)** - Basic hookup guide for the Pro Micro.
 * **[SparkFun Arduino Board Addon](https://github.com/sparkfun/Arduino_Boards/)** - Arduino board addon for Pro Micro.
 * **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** - Graphical datasheets for various SparkFun products.
+* **[USB-A Build Log](https://www.partsnotincluded.com/sparkfun-pro-micro-with-usb-a/)** - Build log for the USB-A version on PartsNotIncluded.com
 
 Product Versions
 ----------------
