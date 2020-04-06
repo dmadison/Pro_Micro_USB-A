@@ -18736,7 +18736,7 @@ For boards designed to be plugged directly into a USB slot. If possible, ensure 
 <text x="251.46" y="149.86" size="1.778" layer="97">Renamed SS net to D14 (from D17)</text>
 <text x="251.46" y="147.32" size="1.778" layer="97">Routed directly inward or outward from each leg on the IC</text>
 <text x="251.46" y="144.78" size="1.778" layer="97">Added two small squares of tRestrict to keep the ground plane away from the sides of IC legs</text>
-<text x="238.76" y="7.62" size="2.54" layer="94">v13</text>
+<text x="238.76" y="7.62" size="2.54" layer="94">v1.1</text>
 </plain>
 <instances>
 <instance part="C10" gate="G$1" x="83.82" y="152.4"/>
