@@ -18722,21 +18722,27 @@ For boards designed to be plugged directly into a USB slot. If possible, ensure 
 <text x="218.44" y="144.78" size="1.778" layer="91">Not used</text>
 <text x="218.44" y="147.32" size="1.778" layer="91">Not used</text>
 <text x="166.624" y="7.112" size="1.778" layer="94">Pro Micro Design by Spark Fun Electronics</text>
-<text x="251.46" y="180.34" size="1.778" layer="97">Changes on v1.1:</text>
-<text x="251.46" y="177.8" size="1.778" layer="97">Corrected silk on D14</text>
-<text x="251.46" y="175.26" size="1.778" layer="97">Change to 500mA regulator</text>
+<text x="251.46" y="175.26" size="1.778" layer="97">Changes on v1.1:</text>
+<text x="251.46" y="172.72" size="1.778" layer="97">Corrected silk on D14</text>
+<text x="251.46" y="170.18" size="1.778" layer="97">Change to 500mA regulator</text>
 <text x="48.26" y="167.64" size="1.778" layer="97">Open for 3.3V Board</text>
-<text x="251.46" y="172.72" size="1.778" layer="97">Added fuse and diode protection</text>
-<text x="251.46" y="170.18" size="1.778" layer="97">Changed LEDs to be tied to VCC</text>
-<text x="251.46" y="165.1" size="1.778" layer="97">Changes on v1.2:</text>
-<text x="251.46" y="162.56" size="1.778" layer="97">Updated package on USB micro B (2 new pads)</text>
-<text x="251.46" y="157.48" size="1.778" layer="97">Changes on v1.3:</text>
-<text x="251.46" y="154.94" size="1.778" layer="97">Updated QFN package on 32U4 to be 1:1</text>
-<text x="251.46" y="152.4" size="1.778" layer="97">Updated symbol of 32U4 in schematic (switched MISO and SS placement)</text>
-<text x="251.46" y="149.86" size="1.778" layer="97">Renamed SS net to D14 (from D17)</text>
-<text x="251.46" y="147.32" size="1.778" layer="97">Routed directly inward or outward from each leg on the IC</text>
-<text x="251.46" y="144.78" size="1.778" layer="97">Added two small squares of tRestrict to keep the ground plane away from the sides of IC legs</text>
+<text x="251.46" y="167.64" size="1.778" layer="97">Added fuse and diode protection</text>
+<text x="251.46" y="165.1" size="1.778" layer="97">Changed LEDs to be tied to VCC</text>
+<text x="251.46" y="160.02" size="1.778" layer="97">Changes on v1.2:</text>
+<text x="251.46" y="157.48" size="1.778" layer="97">Updated package on USB micro B (2 new pads)</text>
+<text x="251.46" y="152.4" size="1.778" layer="97">Changes on v1.3:</text>
+<text x="251.46" y="149.86" size="1.778" layer="97">Updated QFN package on 32U4 to be 1:1</text>
+<text x="251.46" y="147.32" size="1.778" layer="97">Updated symbol of 32U4 in schematic (switched MISO and SS placement)</text>
+<text x="251.46" y="144.78" size="1.778" layer="97">Renamed SS net to D14 (from D17)</text>
+<text x="251.46" y="142.24" size="1.778" layer="97">Routed directly inward or outward from each leg on the IC</text>
+<text x="251.46" y="139.7" size="1.778" layer="97">Added two small squares of tRestrict to keep the ground plane away from the sides of IC legs</text>
 <text x="238.76" y="7.62" size="2.54" layer="94">v1.1</text>
+<text x="251.46" y="180.34" size="1.778" layer="97">SparkFun Pro Micro:</text>
+<text x="251.46" y="111.76" size="1.778" layer="97">Changes on v1.1:</text>
+<text x="251.46" y="109.22" size="1.778" layer="97">Moved top board edge to clear USB-A connector</text>
+<text x="251.46" y="106.68" size="1.778" layer="97">Add USB pin labels to top silkscreen</text>
+<text x="251.46" y="104.14" size="1.778" layer="97">Fix RAW trace angle</text>
+<text x="251.46" y="116.84" size="1.778" layer="97">USB-A Modification:</text>
 </plain>
 <instances>
 <instance part="C10" gate="G$1" x="83.82" y="152.4"/>
